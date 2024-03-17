@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "newLinkFormat": "shortest",
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "focusNewTab": true,
+  "showLineNumber": false,
+  "autoConvertHtml": false
+}
