@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a521819b70c7eedb",
+        "id": "8a41c200f37f403a",
         "type": "tabs",
         "children": [
           {
-            "id": "d7403954f6331165",
+            "id": "6c8866cec79f96a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/DDD架构.md",
+                "file": "Java/JVM/JVM理论学习/第二章.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "3059df7d706ceca2",
+            "id": "c7422e8435fb09d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "招聘/Java面试/Java八股文梗概.md",
+                "file": "计算机基础/计算机网络/概述.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,6 +46,7 @@
       {
         "id": "09ab47415c1a9564",
         "type": "tabs",
+        "dimension": 58.00970873786409,
         "children": [
           {
             "id": "bd900f299870eea4",
@@ -53,7 +54,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -81,10 +82,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "b2edf96a776d3506",
+        "type": "tabs",
+        "dimension": 41.99029126213591,
+        "children": [
+          {
+            "id": "b223fb08638b7d62",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "计算机基础/计算机网络/概述.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200.50840759277344
   },
   "right": {
     "id": "42e35884e93d3aa3",
@@ -100,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "招聘/Java面试/Java八股文梗概.md",
+                "file": "计算机基础/计算机网络/概述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "招聘/Java面试/Java八股文梗概.md",
+                "file": "计算机基础/计算机网络/概述.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "招聘/Java面试/Java八股文梗概.md"
+                "file": "计算机基础/计算机网络/概述.md"
               }
             }
           }
@@ -174,54 +192,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3059df7d706ceca2",
+  "active": "c7422e8435fb09d5",
   "lastOpenFiles": [
-    "架构/DDD架构.md",
-    "招聘/Java面试/Java八股文梗概.md",
-    "项目实现/Lottery抽奖项目/photo/Pasted image 20240318125220.png",
-    "项目实现/Lottery抽奖项目/系统上线和维护.md",
-    "架构",
-    "项目实现/Lottery抽奖项目/photo/Pasted image 20240318125502.png",
-    "项目实现/Lottery抽奖项目/进入开发阶段.md",
-    "项目实现/Lottery抽奖项目/系统架构设计.md",
-    "项目实现/Lottery抽奖项目/photo/Pasted image 20240318124914.png",
-    "项目实现/Lottery抽奖项目/需求.md",
+    "计算机基础/计算机网络/常见面试题.md",
+    "数据库/MySQL/索引.md",
+    "数据库/MySQL/事务隔离级别怎么实现？.md",
+    "数据库/MySQL/一行记录如何存储.md",
+    "数据库/MySQL/B+ 树.md",
+    "计算机基础/计算机网络/概述.md",
+    "项目实现/Lottery抽奖项目/搭建DDD四层架构.md",
     "项目实现/Lottery抽奖项目/大厂使用工具.md",
-    "项目实现/Lottery抽奖项目/photo/Pasted image 20240318124412.png",
-    "项目实现/Lottery抽奖项目/photo",
-    "项目实现/Lottery抽奖项目/photo/截屏2024-03-18 11.09.47.png",
-    "README.md",
-    "项目实现/Lottery抽奖项目",
-    "版本控制工具/git/git diff.md",
-    "项目实现",
-    "Java/Java Spring/Spring  框架/AOP/使用注解配置AOP.md",
-    "截屏2024-03-13 14.12.26.png",
-    "版本控制工具/git/photo/截屏2024-03-13 14.04.05.png",
-    "版本控制工具/git/photo",
-    "数据库/数据库相关技术栈.md",
-    "版本控制工具/git",
-    "版本控制工具",
-    "Java/Java SE/Java基础.md",
-    "Java/Java SE/photo/截屏2024-03-13 10.27.46.png",
-    "Java/Java SE/photo",
-    "Java/Java SE/photo/截屏2024-03-13 10.25.43.png",
-    "Java/Java SE/Java 动态代理.md",
-    "Java/Java SE/Java 回调机制.md",
-    "Java/Java SE/Java序列化.md",
-    "Java/Java SE/Java 克隆机制.md",
-    "Java/Java设计模式/行为型模式.md",
-    "Java/Java设计模式/结构型模式.md",
-    "Java/Java设计模式/photo/截屏2024-03-12 22.29.19.png",
-    "Java/Java设计模式/创建型模式.md",
-    "Java/Java设计模式/photo",
-    "前端/css/层叠和继承.md",
-    "Java/Java设计模式",
-    "前端/框架/bootstrap/简介.md",
-    "前端/框架/bootstrap/CSS.md",
-    "前端/框架/bootstrap/容器.md",
-    "前端/框架/bootstrap/网格系统.md",
-    "前端/框架/bootstrap/文字排版.md",
-    "前端/框架/bootstrap/颜色.md",
+    "项目实现/Lottery抽奖项目/规则引擎量化人群参与活动.md",
+    "Photo/Pasted image 20240327232317.png",
+    "Photo/Pasted image 20240327232227.png",
+    "Photo/Pasted image 20240327232145.png",
+    "项目实现/Lottery抽奖项目/应用层编排抽奖过程.md",
+    "项目实现/Lottery抽奖项目/声明事务领取活动领域开发.md",
+    "项目实现/Lottery抽奖项目/实现和使用分库分表.md",
+    "Photo/Pasted image 20240327231604.png",
+    "Photo/Pasted image 20240327231543.png",
+    "Photo/Pasted image 20240327231506.png",
+    "项目实现/Lottery抽奖项目/ID生成策略开发.md",
+    "Photo/Pasted image 20240327231320.png",
+    "项目实现/Lottery抽奖项目/活动领域的配置和状态.md",
+    "Photo/Pasted image 20240327231212.png",
+    "Photo/Pasted image 20240327231154.png",
+    "项目实现/Lottery抽奖项目/简单工厂搭建发奖领域.md",
+    "Photo/Pasted image 20240327231013.png",
+    "项目实现/Lottery抽奖项目/模板模式处理抽奖流程.md",
+    "项目实现/Lottery抽奖项目/抽奖策略领域模块开发.md",
+    "项目实现/Lottery抽奖项目/策略库表设计.md",
+    "Java/JVM/JVM理论学习/第二章.md",
+    "项目实现/Lottery抽奖项目/配置RPC——Dubbo.md",
+    "Java/RPC/Dubbo/Dubbo通信原理.md",
+    "Java/RPC/Dubbo/简介.md",
+    "Java/zookeeper/简单使用.md",
+    "招聘/Java面试/Java八股文梗概.md",
+    "Java/zookeeper",
+    "招聘/Java面试/Java基础.md",
+    "招聘/Java面试/Java面试准备.md",
+    "Java/RPC/Dubbo",
+    "计算机基础/数字逻辑电路",
+    "计算机基础/计算机组成原理",
+    "计算机基础/编译原理",
+    "计算机基础/计算机网络",
+    "计算机基础/操作系统",
+    "计算机基础",
+    "数据库/MySQL",
+    "数据库/数据库系统概论",
     "考研/考研政治/马原/第二章/未命名.canvas",
     "考研/考研政治/马原/第一章/第一章导图.canvas",
     "考研/考研政治/马原/导论/导论大纲.canvas",
