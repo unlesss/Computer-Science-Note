@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/JVM/JVM理论学习/第二章.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7422e8435fb09d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机基础/计算机网络/概述.md",
+                "file": "Java/Java SE/Java面试准备.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md"
+                "file": "Java/Java SE/Java面试准备.md"
               }
             }
           }
@@ -118,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md",
+                "file": "Java/Java SE/Java面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md",
+                "file": "Java/Java SE/Java面试准备.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机基础/计算机网络/概述.md"
+                "file": "Java/Java SE/Java面试准备.md"
               }
             }
           }
@@ -192,14 +178,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c7422e8435fb09d5",
+  "active": "6c8866cec79f96a5",
   "lastOpenFiles": [
+    "Java/Java SE/Java背景知识.md",
+    "Java/Java SE/Java八股文梗概.md",
+    "Java/JVM/JVM理论学习/第二章.md",
+    "Java/Java SE/Java面试准备.md",
+    "Java/Java SE",
+    "招聘/Java面试/Java面试准备.md",
+    "招聘/Java面试/Java基础.md",
+    "招聘/Java面试/Java八股文梗概.md",
+    "计算机基础/计算机网络/概述.md",
+    "Java/Java SE/Java基础.md",
     "计算机基础/计算机网络/常见面试题.md",
     "数据库/MySQL/索引.md",
     "数据库/MySQL/事务隔离级别怎么实现？.md",
     "数据库/MySQL/一行记录如何存储.md",
     "数据库/MySQL/B+ 树.md",
-    "计算机基础/计算机网络/概述.md",
     "项目实现/Lottery抽奖项目/搭建DDD四层架构.md",
     "项目实现/Lottery抽奖项目/大厂使用工具.md",
     "项目实现/Lottery抽奖项目/规则引擎量化人群参与活动.md",
@@ -222,15 +217,7 @@
     "项目实现/Lottery抽奖项目/模板模式处理抽奖流程.md",
     "项目实现/Lottery抽奖项目/抽奖策略领域模块开发.md",
     "项目实现/Lottery抽奖项目/策略库表设计.md",
-    "Java/JVM/JVM理论学习/第二章.md",
-    "项目实现/Lottery抽奖项目/配置RPC——Dubbo.md",
-    "Java/RPC/Dubbo/Dubbo通信原理.md",
-    "Java/RPC/Dubbo/简介.md",
-    "Java/zookeeper/简单使用.md",
-    "招聘/Java面试/Java八股文梗概.md",
     "Java/zookeeper",
-    "招聘/Java面试/Java基础.md",
-    "招聘/Java面试/Java面试准备.md",
     "Java/RPC/Dubbo",
     "计算机基础/数字逻辑电路",
     "计算机基础/计算机组成原理",
@@ -239,7 +226,6 @@
     "计算机基础/操作系统",
     "计算机基础",
     "数据库/MySQL",
-    "数据库/数据库系统概论",
     "考研/考研政治/马原/第二章/未命名.canvas",
     "考研/考研政治/马原/第一章/第一章导图.canvas",
     "考研/考研政治/马原/导论/导论大纲.canvas",

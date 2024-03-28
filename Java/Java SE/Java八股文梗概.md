@@ -1,5 +1,5 @@
 # Java基础
-[[招聘/Java面试/Java基础]]
+[[Java背景知识]]
 # Java集合
 # Java并发
 # JVM
