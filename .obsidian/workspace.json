@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Java SE/Java面试准备.md",
+                "file": "数据结构和算法/二叉树/理论知识.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -32,7 +32,7 @@
       {
         "id": "09ab47415c1a9564",
         "type": "tabs",
-        "dimension": 58.00970873786409,
+        "dimension": 62.13592233009708,
         "children": [
           {
             "id": "bd900f299870eea4",
@@ -72,7 +72,7 @@
       {
         "id": "b2edf96a776d3506",
         "type": "tabs",
-        "dimension": 41.99029126213591,
+        "dimension": 37.86407766990291,
         "children": [
           {
             "id": "b223fb08638b7d62",
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java SE/Java面试准备.md"
+                "file": "数据结构和算法/二叉树/理论知识.md"
               }
             }
           }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Java SE/Java面试准备.md",
+                "file": "数据结构和算法/二叉树/理论知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Java SE/Java面试准备.md",
+                "file": "数据结构和算法/二叉树/理论知识.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Java SE/Java面试准备.md"
+                "file": "数据结构和算法/二叉树/理论知识.md"
               }
             }
           }
@@ -178,17 +178,42 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6c8866cec79f96a5",
+  "active": "bd900f299870eea4",
   "lastOpenFiles": [
-    "Java/Java SE/Java背景知识.md",
+    "刷题算法理解/树和二叉树",
+    "刷题算法理解/查找",
+    "Photo/Pasted image 20240402220256.png",
+    "Photo/Pasted image 20240402215830.png",
+    "Photo/Pasted image 20240402215616.png",
+    "Photo/Pasted image 20240402215428.png",
+    "Photo/Pasted image 20240402215129.png",
+    "Photo/Pasted image 20240402215120.png",
+    "Java/Java设计模式/创建型模式.md",
+    "数据结构和算法/二叉树/理论知识.md",
+    "数据结构和算法/二叉树",
+    "Photo/Pasted image 20240329200612.png",
+    "Java/Java SE/Java 其他知识.md",
+    "Photo/Pasted image 20240329191946.png",
     "Java/Java SE/Java八股文梗概.md",
-    "Java/JVM/JVM理论学习/第二章.md",
+    "Java/Java SE/Java背景知识.md",
     "Java/Java SE/Java面试准备.md",
-    "Java/Java SE",
+    "Photo/Pasted image 20240329185643.png",
+    "Java/Java设计模式/目录.md",
+    "刷题算法理解/查找/二分查找.md",
+    "计算机基础/计算机网络/概述.md",
+    "计算机基础/操作系统/其他知识",
+    "计算机基础/操作系统/未命名.md",
+    "计算机基础/操作系统/理论知识",
+    "计算机基础/计算机网络/其他知识",
+    "计算机基础/计算机网络/理论知识",
+    "刷题算法理解",
+    "深度学习/神经网络",
+    "深度学习",
+    "Python",
+    "Java/JVM/JVM理论学习/第二章.md",
     "招聘/Java面试/Java面试准备.md",
     "招聘/Java面试/Java基础.md",
     "招聘/Java面试/Java八股文梗概.md",
-    "计算机基础/计算机网络/概述.md",
     "Java/Java SE/Java基础.md",
     "计算机基础/计算机网络/常见面试题.md",
     "数据库/MySQL/索引.md",
@@ -199,33 +224,8 @@
     "项目实现/Lottery抽奖项目/大厂使用工具.md",
     "项目实现/Lottery抽奖项目/规则引擎量化人群参与活动.md",
     "Photo/Pasted image 20240327232317.png",
-    "Photo/Pasted image 20240327232227.png",
-    "Photo/Pasted image 20240327232145.png",
     "项目实现/Lottery抽奖项目/应用层编排抽奖过程.md",
     "项目实现/Lottery抽奖项目/声明事务领取活动领域开发.md",
-    "项目实现/Lottery抽奖项目/实现和使用分库分表.md",
-    "Photo/Pasted image 20240327231604.png",
-    "Photo/Pasted image 20240327231543.png",
-    "Photo/Pasted image 20240327231506.png",
-    "项目实现/Lottery抽奖项目/ID生成策略开发.md",
-    "Photo/Pasted image 20240327231320.png",
-    "项目实现/Lottery抽奖项目/活动领域的配置和状态.md",
-    "Photo/Pasted image 20240327231212.png",
-    "Photo/Pasted image 20240327231154.png",
-    "项目实现/Lottery抽奖项目/简单工厂搭建发奖领域.md",
-    "Photo/Pasted image 20240327231013.png",
-    "项目实现/Lottery抽奖项目/模板模式处理抽奖流程.md",
-    "项目实现/Lottery抽奖项目/抽奖策略领域模块开发.md",
-    "项目实现/Lottery抽奖项目/策略库表设计.md",
-    "Java/zookeeper",
-    "Java/RPC/Dubbo",
-    "计算机基础/数字逻辑电路",
-    "计算机基础/计算机组成原理",
-    "计算机基础/编译原理",
-    "计算机基础/计算机网络",
-    "计算机基础/操作系统",
-    "计算机基础",
-    "数据库/MySQL",
     "考研/考研政治/马原/第二章/未命名.canvas",
     "考研/考研政治/马原/第一章/第一章导图.canvas",
     "考研/考研政治/马原/导论/导论大纲.canvas",
