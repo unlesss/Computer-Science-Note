@@ -1,7 +1,7 @@
 [
-  "obsidian-plugin-toc",
   "mousewheel-image-zoom",
   "heatmap-calendar",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "table-editor-obsidian"
 ]

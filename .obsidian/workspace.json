@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a41c200f37f403a",
+        "id": "cd3c759fa59707e7",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8866cec79f96a5",
+            "id": "c5d9747b930430d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +32,7 @@
       {
         "id": "09ab47415c1a9564",
         "type": "tabs",
-        "dimension": 62.13592233009708,
+        "dimension": 67.83980582524272,
         "children": [
           {
             "id": "bd900f299870eea4",
@@ -72,7 +72,7 @@
       {
         "id": "b2edf96a776d3506",
         "type": "tabs",
-        "dimension": 37.86407766990291,
+        "dimension": 32.16019417475729,
         "children": [
           {
             "id": "b223fb08638b7d62",
@@ -151,17 +151,15 @@
             }
           },
           {
-            "id": "430bf7552c701d60",
+            "id": "0c76b6b459257d26",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "数据结构和算法/二叉树/理论知识.md"
-              }
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,11 +173,44 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd900f299870eea4",
+  "active": "c5d9747b930430d1",
   "lastOpenFiles": [
+    "Pasted image 20240404130217.png",
+    "深度学习/神经网络/卷积神经网络/LeNet 和 AlexNet 原理和实战.md",
+    "Linux/原理机制/Linux 账号管理.md",
+    "深度学习/神经网络/卷积神经网络",
+    "Linux/命令/gpasswd.md",
+    "刷题算法理解/groupdel.md",
+    "Linux/命令/groupmod.md",
+    "Linux/命令/groupadd.md",
+    "Linux/命令/id.md",
+    "Linux/命令/chsh.md",
+    "Linux/命令/chfn.md",
+    "Pasted image 20240403235701.png",
+    "Linux/命令/finger.md",
+    "Linux/命令/userdel.md",
+    "Linux/命令/usermod.md",
+    "Linux/命令/chage.md",
+    "Linux/命令/passwd.md",
+    "Docker/基本概念.md",
+    "Docker",
+    "2024-04-03.md",
+    "Linux/命令/useradd.md",
+    "Photo/Pasted image 20240403230406.png",
+    "Photo/Pasted image 20240403230228.png",
+    "Linux/原理机制/Linux 用户管理.md",
+    "Photo/Pasted image 20240403163822.png",
+    "Photo/Pasted image 20240403162804.png",
+    "Linux/命令/quotacheck.md",
+    "Linux/原理机制",
+    "Linux/命令",
+    "Linux/未命名.md",
+    "数据结构和算法/二叉树/理论知识.md",
+    "Linux",
     "刷题算法理解/树和二叉树",
     "刷题算法理解/查找",
     "Photo/Pasted image 20240402220256.png",
@@ -187,45 +218,13 @@
     "Photo/Pasted image 20240402215616.png",
     "Photo/Pasted image 20240402215428.png",
     "Photo/Pasted image 20240402215129.png",
-    "Photo/Pasted image 20240402215120.png",
     "Java/Java设计模式/创建型模式.md",
-    "数据结构和算法/二叉树/理论知识.md",
     "数据结构和算法/二叉树",
-    "Photo/Pasted image 20240329200612.png",
     "Java/Java SE/Java 其他知识.md",
-    "Photo/Pasted image 20240329191946.png",
     "Java/Java SE/Java八股文梗概.md",
     "Java/Java SE/Java背景知识.md",
-    "Java/Java SE/Java面试准备.md",
-    "Photo/Pasted image 20240329185643.png",
-    "Java/Java设计模式/目录.md",
-    "刷题算法理解/查找/二分查找.md",
-    "计算机基础/计算机网络/概述.md",
     "计算机基础/操作系统/其他知识",
-    "计算机基础/操作系统/未命名.md",
     "计算机基础/操作系统/理论知识",
-    "计算机基础/计算机网络/其他知识",
-    "计算机基础/计算机网络/理论知识",
-    "刷题算法理解",
-    "深度学习/神经网络",
-    "深度学习",
-    "Python",
-    "Java/JVM/JVM理论学习/第二章.md",
-    "招聘/Java面试/Java面试准备.md",
-    "招聘/Java面试/Java基础.md",
-    "招聘/Java面试/Java八股文梗概.md",
-    "Java/Java SE/Java基础.md",
-    "计算机基础/计算机网络/常见面试题.md",
-    "数据库/MySQL/索引.md",
-    "数据库/MySQL/事务隔离级别怎么实现？.md",
-    "数据库/MySQL/一行记录如何存储.md",
-    "数据库/MySQL/B+ 树.md",
-    "项目实现/Lottery抽奖项目/搭建DDD四层架构.md",
-    "项目实现/Lottery抽奖项目/大厂使用工具.md",
-    "项目实现/Lottery抽奖项目/规则引擎量化人群参与活动.md",
-    "Photo/Pasted image 20240327232317.png",
-    "项目实现/Lottery抽奖项目/应用层编排抽奖过程.md",
-    "项目实现/Lottery抽奖项目/声明事务领取活动领域开发.md",
     "考研/考研政治/马原/第二章/未命名.canvas",
     "考研/考研政治/马原/第一章/第一章导图.canvas",
     "考研/考研政治/马原/导论/导论大纲.canvas",
