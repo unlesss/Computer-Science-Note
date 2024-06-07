@@ -6,5 +6,6 @@
   "alwaysUpdateLinks": true,
   "focusNewTab": true,
   "showLineNumber": false,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "attachmentFolderPath": "Photo"
 }
